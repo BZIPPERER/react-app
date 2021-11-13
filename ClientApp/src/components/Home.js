@@ -9,7 +9,7 @@ export class Home extends Component {
       <div>
         <h1>Startseite</h1>
         <p>React | Dotnet SPA Projekt </p>
-        <p>Help you get started, we have also set up:</p>
+        <p>Navigieren Sie bitte &uuml;ber das <u>Men&uuml; </u>oben rechts.</p>
         
       </div>
     );
